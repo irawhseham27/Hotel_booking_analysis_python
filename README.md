@@ -1,6 +1,4 @@
 # Hotel_booking_analysis_python
-# Hotel Booking Analysis
-
 This project aims to analyze hotel booking data to derive insights and trends related to bookings, customer preferences, and other relevant factors.
 
 ## Table of Contents
@@ -11,8 +9,6 @@ This project aims to analyze hotel booking data to derive insights and trends re
 - [Methods](#methods)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -47,13 +43,7 @@ To use this project:
 ## Results
 Summarize the key findings and insights obtained from the analysis. This section can include visualizations, graphs, or important statistics derived from the dataset.
 
-## Contributing
-If you'd like to contribute to this project, please follow the guidelines outlined in CONTRIBUTING.md (if available). Contributions, suggestions, and improvements are welcome.
-
-## License
-Specify the project's license, if applicable. Include any necessary disclaimers or legal information.
-
 ## Contact
 For any inquiries, feedback, or support related to this project, please contact:
 - [Your Name](mailto:your-email@example.com)
-- [Project Repository](https://github.com/yourusername/project-repository)
+- [Project Repository](https://github.com/irawhseham27/Hotel_booking_analysis_python/edit/main)
